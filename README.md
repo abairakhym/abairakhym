@@ -1,5 +1,3 @@
-Header
-
 ## I'm beginner Android Developer
 
 ### Languages and Tools
