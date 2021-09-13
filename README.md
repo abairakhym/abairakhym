@@ -11,9 +11,8 @@ Header
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=0000FF)
 
 ### Follow Me
-https://t.me/abairakhym
-https://vk.com/a_person_who_will_change_peace
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1E90FF)(
-https://t.me/abairakhym)]
-[![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VKontakte&logoColor=1E90FF)(
-https://vk.com/a_person_who_will_change_peace)]
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](
+https://t.me/abairakhym)
+[![VKontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VKontakte&logoColor=1E90FF)](
+https://vk.com/a_person_who_will_change_peace)
