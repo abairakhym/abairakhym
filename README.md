@@ -7,7 +7,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON&logoColor=808080)
 ![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=808080)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=0000FF)
-![Retrofit](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=Retrofit&logoColor=0000FF)
+![Retrofit](https://img.shields.io/badge/-Retrofit-090909?style=for-the-badge&logo=Retrofit&logoColor=0000FF)
 
 ### Follow Me
 
