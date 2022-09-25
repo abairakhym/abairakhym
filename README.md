@@ -1,4 +1,4 @@
-## I'm beginner Android Developer
+## I'm Android Developer
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=FFA500)
